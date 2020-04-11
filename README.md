@@ -63,7 +63,7 @@
 ## 布局标签
 ```
         指定布局文件为layout.php
-        <extends layout>&lt/extends>
+        <extends layout></extends>
 
         定义一个content展示块
         <block content></block>
